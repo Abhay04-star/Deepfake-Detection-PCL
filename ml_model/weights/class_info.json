@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "fake",
+    "real"
+  ],
+  "fake_is_first": true,
+  "real_count": 4,
+  "fake_count": 1,
+  "class_weights": {
+    "0": 0.625,
+    "1": 2.5
+  }
+}

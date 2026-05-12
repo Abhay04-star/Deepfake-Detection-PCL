@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+
+# Model Weights (Optional: only if you DON'T want them on GitHub at all)
+# If using LFS, you don't need to ignore .h5 files here.
+
+# OS files
+.DS_Store
+Thumbs.db
